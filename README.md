@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de archivo `README.md` que puedes usar como base para tu proyecto. Asegúrate de personalizarlo con la información específica de tu proyecto.
-
-```markdown
 # Nombre del Proyecto
 
 Descripción breve de tu proyecto.
